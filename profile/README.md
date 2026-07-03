@@ -1,12 +1,17 @@
-## Hi there 👋
+# Welcome to Playfully! 👋
+[Playfully](https://www.roblox.com/communities/15742438) is a game studio based in the Netherlands.
 
-<!--
+We're two brothers with over 3 decades of combined experience on the Roblox platform. Together, we create games that stand out from the crowd.
 
-**Here are some ideas to get you started:**
+Your next adventure starts playfully!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Our Games 🎮
+
+### Boo! 👻🔦
+Boo! is a ghost-hunting adventure that combines an elaborate story with hectic multiplayer fun! Team up with your friends and fend off the evil ghost using your flashlight—just make sure your battery doesn't run out!
+
+### (Unannounced Title) 🐶🐱
+Explore the island, meet the people, take on fun jobs, and build an empire out of creating and raising unique animals.
+
+## Open Source
+We also contribute to the Roblox open source community through projects like [Rogen](https://github.com/LDGerrits/rogen) and [QuickZone](https://github.com/LDGerrits/QuickZone)!
