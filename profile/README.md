@@ -1,7 +1,4 @@
-
-
-# Welcome to Playfully! 👋
-
+# Welcome to Playfully
 
 ![Playfully Logo](https://github.com/PlayfullyGames/playfully-brand/blob/main/logo/primary/logo-3000.png?raw=true)
 
@@ -11,26 +8,31 @@
 
 ---
 
-Playfully is an independent game studio based in the Netherlands. Founded by two brothers with over three decades of combined Roblox experience, we focus on crafting immersive worlds, designing fresh gameplay, and delivering genuine fun.
+Playfully is an independent game studio based in the Netherlands. Founded by two brothers with over three decades of combined Roblox experience, we focus on crafting immersive worlds, designing fresh gameplay mechanics, and delivering fun experiences.
 
-## Our Games 🎮
+## Our Games
 
-### Boo! 👻🔦
-A multi-chapter, co-op mystery adventure! When an ancient evil escapes an underground lab, it's up to you and your ghost companion to stop the paranormal chaos. Team up with friends, uncover a dark conspiracy, and fight spirits across New York with your flashlight... just don't let the battery run out!
+### Boo!
 
-### (Unannounced Title) 🐶🐱
-*Coming soon...*
-Explore a vibrant island, build relationships, work fun jobs, and build an empire out of creating and raising unique animals.
+When an ancient evil escapes a mysterious underground lab, it's up to you and your four-footed ghost companion to stop the paranormal chaos. Team up with friends, uncover a dark conspiracy, and fight spirits across New York with your flashlight... just don't let the battery run out!
 
-## Open Source 💻
+### Upcoming Project
+
+*Coming Soon...* 
+Explore a vibrant island, meet the locals, take on quirky jobs, and build a thriving empire around your animal creations.
+
+## Open Source
+
 We contribute to the Roblox open-source community. Check out our main projects:
 
-* **[Rogen](https://github.com/LDGerrits/rogen)** - A CLI tool that enables feature-based architecture
-* **[QuickZone](https://github.com/LDGerrits/QuickZone)** - A high-performance, physics-free spatial query library
+* **[Rogen](https://github.com/LDGerrits/rogen)**: A CLI tool enabling clean, feature-based architecture.
+* **[QuickZone](https://github.com/LDGerrits/QuickZone)**: A high-performance, physics-free spatial query library for Roblox.
 
-## Connect with Us 🌐
+## Connect
 
-* 🎮 **[Roblox Community](https://www.roblox.com/communities/15742438/Playfully#!/about)**
-* 🐦 **[Twitter/X](https://twitter.com/playfullygames)**
-* 🎥 **[YouTube](https://www.youtube.com/@PlayfullyGames)**
-* 🎵 **[TikTok](https://www.tiktok.com/@playfullygames)**
+Stay up to date with our latest releases and developer updates:
+
+* **Roblox:** [Playfully Community](https://www.roblox.com/communities/15742438/Playfully#!/about)
+* **X (Twitter):** [@playfullygames](https://twitter.com/playfullygames)
+* **YouTube:** [@PlayfullyGames](https://www.youtube.com/@PlayfullyGames)
+* **TikTok:** [@playfullygames](https://www.tiktok.com/@playfullygames)
