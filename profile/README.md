@@ -2,10 +2,6 @@
 
 ![Playfully Logo](https://github.com/PlayfullyGames/playfully-brand/blob/main/logo/primary/logo-3000.png?raw=true)
 
-<div align="right">
-  <em>Playfully made. Seriously fun.</em>
-</div>
-
 ---
 
 Playfully is an independent game studio based in the Netherlands. Founded by two brothers with over three decades of combined Roblox experience, we focus on crafting immersive worlds, designing fresh gameplay mechanics, and delivering fun experiences.
